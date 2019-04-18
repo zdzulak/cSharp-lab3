@@ -1,0 +1,15 @@
+C:\Users\zacka\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\zacka\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\zacka\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Greetings.g.cs
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\App.g.cs
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.lref
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Greetings.baml
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.g.resources
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\zacka\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
